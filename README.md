@@ -1,4 +1,4 @@
-# try2be: Try-catch code wrapper for better javascript error handling
+# try2be: Try-catch wrapper for better javascript error handling
 
 [TOC]
 
@@ -114,7 +114,7 @@ const [ret, err] = await try2Arr(async () => {
 // err = "jerry";
 ```
 
-### Use With CommonJS
+### Use with CommonJS
 
 ```js
 const { try2Arr } = require('try2Arr');
