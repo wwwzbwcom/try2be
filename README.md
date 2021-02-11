@@ -1,4 +1,4 @@
-# try2be: Try-catch wrapper for better javascript error handling
+# Try2be: Try-catch wrapper for better javascript error handling
 
 [TOC]
 
