@@ -1,7 +1,5 @@
 # Try2be: Try-catch wrapper for better javascript error handling
 
-[TOC]
-
 - Build with Typescript, ship with Built-in TypeDefinitions
 - Handle `Promise` and async Function
 - Zero dependencies
